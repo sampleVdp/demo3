@@ -1,0 +1,9 @@
+cap.mil
+defense.gov
+google.com
+af.mil
+army.mil
+tak.gov
+cttso.gov
+ndu.edu
+westpoint.edu
